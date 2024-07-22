@@ -60,4 +60,66 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 
 ---
 
-![Footer](https://sanjoy-chattopadhay.github.io/portfolio/footer.jpg)
+![Footer]
+<footer>
+            <h2>Connect</h2>
+            <div class="footer-links">
+                <div>
+                    <a href="https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/" target="_blank" title="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                        LinkedIn
+                    </a>
+                </div>
+                <div>
+                    <a href="https://github.com/sanjoy-chattopadhay" target="_blank" title="GitHub">
+                        <i class="fab fa-github"></i>
+                        GitHub
+                    </a>
+                </div>
+                <div>
+                    <a href="https://leetcode.com/u/I_am_Sanjoy/" target="_blank" title="LeetCode">
+                        <i class="fa-duotone fa-solid fa-code"></i>
+                        LeetCode
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.codechef.com/users/i_am_sanjoy" target="_blank" title="CodeChef">
+                        <i class="fa-solid fa-chess-rook"></i>
+                        CodeChef
+                    </a>
+                </div>
+                <div>
+                    <a href="https://topmate.io/sanjoy_chattopadhyay/" target="_blank" title="TopMate">
+                        <i class="fa-solid fa-handshake"></i>
+                        TopMate
+                    </a>
+                </div>
+                <div>
+                    <a href="https://linktr.ee/Sanjoy_Chattopadhyay" target="_blank" title="Linktree">
+                        <i class="fas fa-link"></i>
+                        Linktree
+                    </a>
+                </div>
+                <div>
+                    <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank" title="Portfolio">
+                        <i class="fas fa-briefcase"></i>
+                        Portfolio
+                    </a>
+                </div>
+                <div>
+                    <a href="mailto:chatterjeesanjoy347@gmail.com" title="Email">
+                        <i class="fas fa-envelope"></i>
+                        Email
+                    </a>
+                </div>
+                <div>
+                    <a href="https://wa.me/7699111052" title="WhatsApp">
+                        <i class="fab fa-whatsapp"></i>
+                        WhatsApp
+                    </a>
+                </div>
+            </div>
+            <div class="footer-credit">
+                <p>Designed by <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank">Sanjoy Chattopadhay</a></p>
+            </div>
+        </footer>
