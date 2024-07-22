@@ -39,9 +39,8 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
-- 🥇 First Prize in Coding Competition at XYZ Event
-- 💻 1.5 Years of Work Experience at HCL Technologies
-- 📜 Published Articles on Major Tech Platforms
+- 💻 2 years of Work Experience at HCL Technologies
+- 📜 Published Articles on Major Tech Platforms like Leetcode
 - 🎓 Cleared GATE 2024 CS paper
 - 📚 Currently pursuing M.Tech in Computer Science at NIT Durgapur
 
