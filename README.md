@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
-![Profile Banner](https://sanjoy-chattopadhay.github.io/portfolio/Img/ppp4.png)
-
+<p align="left">
+  <img src="https://sanjoy-chattopadhay.github.io/EZ-Coding/dp2.png" alt="Profile Banner" width="150" height="150" style="border-radius: 50%;">
+</p>
 # Hello, I'm Sanjoy Chattopadhay! 👋
 
 ## 🌟 About Me
