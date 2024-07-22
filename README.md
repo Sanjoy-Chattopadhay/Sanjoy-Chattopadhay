@@ -12,8 +12,8 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 - 🎓 M.Tech CS student at NIT Durgapur
 - 🎯 Cleared GATE 2024 CS 
 - 💻 Competitive Programmer
-- 🎥 [Instagram](https://instagram.com/yourprofile) | [YouTube](https://youtube.com/yourprofile)
-- 📫 [Email Me](mailto:sanjoy.chattopadhay@example.com)
+- 🎥 [Instagram](https://www.instagram.com/sanjoy_chattopadhyay_/) | [YouTube](https://youtube.com)
+- 📫 [Email Me](mailto:chatterjeesanjoy347@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
