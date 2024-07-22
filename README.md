@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://sanjoy-chattopadhay.github.io/EZ-Coding/dp2.png" alt="Profile Banner" width="150" height="150" style="border-radius: 50%;">
 </p>
-# Hello, I'm Sanjoy Chattopadhay! 👋
+# Hello, I'm Sanjoy Chattopadhyay! 👋
 
 ## 🌟 About Me
 I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur. I have a passion for problem-solving and a strong background in web development and core computer Science Subjects.
