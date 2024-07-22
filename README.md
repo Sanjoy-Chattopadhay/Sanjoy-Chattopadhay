@@ -59,67 +59,22 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 - [EZ-Coding](https://sanjoy-chattopadhay.github.io/EZ-Coding/) - Your go-to resource for coding tutorials.
 
 ---
+## Connect
 
-![Footer]
-<footer>
-            <h2>Connect</h2>
-            <div class="footer-links">
-                <div>
-                    <a href="https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/" target="_blank" title="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                        LinkedIn
-                    </a>
-                </div>
-                <div>
-                    <a href="https://github.com/sanjoy-chattopadhay" target="_blank" title="GitHub">
-                        <i class="fab fa-github"></i>
-                        GitHub
-                    </a>
-                </div>
-                <div>
-                    <a href="https://leetcode.com/u/I_am_Sanjoy/" target="_blank" title="LeetCode">
-                        <i class="fa-duotone fa-solid fa-code"></i>
-                        LeetCode
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.codechef.com/users/i_am_sanjoy" target="_blank" title="CodeChef">
-                        <i class="fa-solid fa-chess-rook"></i>
-                        CodeChef
-                    </a>
-                </div>
-                <div>
-                    <a href="https://topmate.io/sanjoy_chattopadhyay/" target="_blank" title="TopMate">
-                        <i class="fa-solid fa-handshake"></i>
-                        TopMate
-                    </a>
-                </div>
-                <div>
-                    <a href="https://linktr.ee/Sanjoy_Chattopadhyay" target="_blank" title="Linktree">
-                        <i class="fas fa-link"></i>
-                        Linktree
-                    </a>
-                </div>
-                <div>
-                    <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank" title="Portfolio">
-                        <i class="fas fa-briefcase"></i>
-                        Portfolio
-                    </a>
-                </div>
-                <div>
-                    <a href="mailto:chatterjeesanjoy347@gmail.com" title="Email">
-                        <i class="fas fa-envelope"></i>
-                        Email
-                    </a>
-                </div>
-                <div>
-                    <a href="https://wa.me/7699111052" title="WhatsApp">
-                        <i class="fab fa-whatsapp"></i>
-                        WhatsApp
-                    </a>
-                </div>
-            </div>
-            <div class="footer-credit">
-                <p>Designed by <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank">Sanjoy Chattopadhay</a></p>
-            </div>
-        </footer>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjoy-chattopadhay)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/I_am_Sanjoy/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/i_am_sanjoy)
+[![TopMate](https://img.shields.io/badge/-TopMate-1A237E?style=for-the-badge&logoColor=white)](https://topmate.io/sanjoy_chattopadhyay/)
+[![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Sanjoy_Chattopadhyay)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://sanjoy-chattopadhay.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatterjeesanjoy347@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7699111052)
+
+</div>
+
+<div align="center">
+  <p>Designed by <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank">Sanjoy Chattopadhay</a></p>
+</div>
