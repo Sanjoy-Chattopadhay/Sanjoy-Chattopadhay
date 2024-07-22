@@ -70,6 +70,3 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 
 </div>
 
-<div align="center">
-  <p>Designed by <a href="https://sanjoy-chattopadhay.github.io/portfolio/" target="_blank">Sanjoy Chattopadhay</a></p>
-</div>
