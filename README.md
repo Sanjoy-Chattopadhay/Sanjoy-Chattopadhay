@@ -49,10 +49,6 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanjoy_chatterj1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/I_am_Sanjoy/)
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjoyChattopadhay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-SanjoyChattopadhay-black?style=for-the-badge&logo=github)](https://github.com/Sanjoy-Chattopadhay)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanjoy_chattopadhyay_/)
 
 ## 🎨 Cool Projects
 - [Portfolio](https://sanjoy-chattopadhay.github.io/portfolio/) - Explore my projects and professional journey.
