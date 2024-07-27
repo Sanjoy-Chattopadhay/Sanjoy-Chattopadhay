@@ -5,37 +5,32 @@
 ## Hello, I'm Sanjoy Chattopadhyay! 👋
 
 ## 🌟 About Me
-I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur. I have a passion for problem-solving and a strong background in web development and core computer Science Subjects.
 
-- 🌐 [Portfolio](https://sanjoy-chattopadhay.github.io/portfolio/)
-- 👨‍🏫 Languages: C, C++, Java, Python
-- 🎓 M.Tech CS student at NIT Durgapur
-- 🎯 Cleared GATE 2024 CS 
-- 💻 Competitive Programmer
-- 🎥 [Instagram](https://www.instagram.com/sanjoy_chattopadhyay_/) | [YouTube](https://youtube.com)
-- 📫 [Email Me](mailto:chatterjeesanjoy347@gmail.com)
+🏆 I’m a dedicated competitive programmer.<br>📧 I'm an ex-SDE @HCLTech<br>🎓 I’m an M.Tech CS student at NIT Durgapur.<br>❤️ I have a passion for problem-solving.<br>💻 I have a strong background in web development and core computer science subjects.
 
-## 🛠️ Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📊 GitHub Stats
-![Sanjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhik.chattopadhyay.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjoy_chattopadhyay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjoy Chattopadhyay) 
 
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&layout=compact&theme=radical)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjoy-Chattopadhay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📘 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Bit Manipulation Basics](https://sanjoy-chattopadhay.github.io/EZ-Coding/post1.html)
-- [Use Hashmap for Beginners](https://sanjoy-chattopadhay.github.io/EZ-Coding/post6.html)
-- [Advanced Java Concepts](https://sanjoy-chattopadhay.github.io/EZ-Coding/post3.html)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sanjoy-Chattopadhay&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sanjoy-Chattopadhay&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
@@ -48,10 +43,6 @@ I'm a dedicated competitive programmer and an M.Tech CS student at NIT Durgapur.
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanjoy_chatterj1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/I_am_Sanjoy/)
 
-
-## 🎨 Cool Projects
-- [Portfolio](https://sanjoy-chattopadhay.github.io/portfolio/) - Explore my projects and professional journey.
-- [EZ-Coding](https://sanjoy-chattopadhay.github.io/EZ-Coding/) - Your go-to resource for coding tutorials.
 
 ---
 ## Connect
