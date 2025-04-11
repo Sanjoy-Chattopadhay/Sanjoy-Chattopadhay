@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/64368749?v=4" alt="Profile Banner" width="150" height="150" style="border-radius: 50%;">
 </p>
+
 ## Hello, I'm Sanjoy Chattopadhyay! 👋
 
 ## 🌟 About Me
