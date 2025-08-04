@@ -50,7 +50,10 @@ specialization: [
   "System Design & Architecture",
   "Blockchain & LLM Research"
 ]
-life_philosophy: ["Continuous learning, consistent growth, and writing code that makes a difference"]
+life_philosophy: [
+"Continuous learning",
+"consistent growth",
+"writing code that makes a difference"]
 
 ```
 
