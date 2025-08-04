@@ -153,7 +153,7 @@ I'm passionate about solving complex problems through elegant code, participatin
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="35"> Achievements & Trophies
 
