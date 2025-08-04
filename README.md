@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1" 
-       width="200" 
+       width="320" height = "400" 
        style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
 </div>
 
