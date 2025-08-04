@@ -224,8 +224,3 @@ I'm passionate about solving complex problems through elegant code, participatin
 </div>
 
 ---
-
-<div align="center">
-  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</h3>
-  <p><em>⭐ Star my repositories if you find them interesting! ⭐</em></p>
-</div>
