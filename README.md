@@ -153,9 +153,8 @@ I'm passionate about solving complex problems through elegant code, participatin
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="35"> Achievements & Trophies
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Achievements & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
