@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS"/>
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
@@ -51,6 +50,7 @@ specialization: [
   "System Design & Architecture",
   "Blockchain & LLM Research"
 ]
+```
 
 
 life_philosophy: "Continuous learning, consistent growth, and code that makes a difference"
@@ -64,9 +64,7 @@ Spent **2+ years** as a **Software Developer at HCL Technologies** (2022-2024), 
 
 ### 🚀 **What Drives Me**
 I'm passionate about solving complex problems through elegant code, participating in competitive programming challenges, and building applications that create real-world impact. I believe in the power of clean, efficient code and continuous learning in the ever-evolving tech landscape.
-```
 <br>
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
