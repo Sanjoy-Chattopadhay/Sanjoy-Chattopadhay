@@ -30,26 +30,35 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
 
-name: Sanjoy Chattopadhyay
-located_in: West Bengal, India
-education: ["M.Tech CS", "NIT Durgapur"]
-job: ["Ex-SDE @HCLTech", "Full-Stack Developer"]
-company: HCL Technologies (2022-2024)
-
-fields_of_interests: [
-"Competitive Programming",
-"Full-Stack Development",
-"Problem Solving",
-"System Design",
-"Open Source"
-]
-
-currently_learning: ["Advanced Algorithms", "System Architecture"]
-2025_goals: ["Master Advanced DSA", "Contribute to Open Source", "Build Innovative Projects"]
-hobbies: ["Coding", "Reading Tech Blogs", "Problem Solving"]
-
+```json
+{
+  "name": "Sanjoy Chattopadhyay",
+  "located_in": "West Bengal, India",
+  "education": ["M.Tech CS", "NIT Durgapur"],
+  "job": ["Ex-SDE @HCLTech", "Full-Stack Developer"],
+  "company": "HCL Technologies (2022–2024)",
+  "fields_of_interests": [
+    "Competitive Programming",
+    "Full-Stack Development",
+    "Problem Solving",
+    "System Design",
+    "Open Source"
+  ],
+  "currently_learning": ["Advanced Algorithms", "System Architecture"],
+  "2025_goals": [
+    "Master Advanced DSA",
+    "Contribute to Open Source",
+    "Build Innovative Projects"
+  ],
+  "hobbies": [
+    "Coding",
+    "Reading Tech Blogs",
+    "Problem Solving"
+  ]
+}
+```
 
 <br>
 
