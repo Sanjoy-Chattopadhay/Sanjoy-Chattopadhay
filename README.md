@@ -59,23 +59,21 @@ life_philosophy: [
 
 
 
-### 🎓 **Academic Journey**  
-Currently pursuing an **M.Tech in Computer Science** at **NIT Durgapur**, one of India’s premier technical institutions.  
-My focus areas include advanced algorithms, system design, and cutting-edge computer science research.
+## 👨‍💻 About Me
 
----
+🎓 **Education**  
+I’m currently pursuing an **M.Tech in Computer Science** at **NIT Durgapur**, one of India's top-tier technical institutes. My academic interests revolve around **advanced algorithms**, **system design**, and **research in cutting-edge areas** of computer science.
 
-### 💼 **Professional Experience**  
-Worked for **2+ years** as a **Software Developer at HCL Technologies** (2022–2024), where I:
-- Contributed to enterprise-level application development
-- Collaborated with cross-functional teams
-- Gained hands-on experience in **full-stack development**, **DevOps**, and **agile methodologies**
+💼 **Industry Experience**  
+I bring over **2 years of experience as a Software Developer at HCL Technologies (2022–2024)**, where I:
+- Developed and maintained enterprise-grade applications
+- Worked closely with cross-functional teams in agile environments
+- Gained hands-on expertise in **full-stack development**, **DevOps**, and **CI/CD pipelines**
 
----
+🚀 **What I’m Passionate About**  
+I love **solving algorithmic challenges**, especially in the field of **Dynamic Programming**, and regularly take part in **competitive programming contests**. I'm driven by writing **clean, efficient, and impactful code**, and I enjoy building tech solutions that solve real-world problems.
 
-### 🚀 **What Drives Me**
-I'm passionate about solving complex problems through elegant code, participating in competitive programming challenges, and building applications that create real-world impact. I believe in the power of clean, efficient code and continuous learning in the ever-evolving tech landscape.
-<br>
+💡 I’m a lifelong learner who thrives in the fast-paced world of technology and innovation.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
