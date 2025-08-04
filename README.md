@@ -26,33 +26,66 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
 
-name: Sanjoy Chattopadhyay
-located_in: West Bengal, India
-education: ["M.Tech CS", "NIT Durgapur"]
-job: ["Ex-SDE @HCLTech", "Full-Stack Developer"]
-company: HCL Technologies (2022-2024)
+```yaml
+name: "Sanjoy Chattopadhyay"
+located_in: "West Bengal, India"
+current_status: "M.Tech CS Student @NIT Durgapur"
+education: 
+  - "M.Tech Computer Science (2024-Present)"
+  - "NIT Durgapur"
+experience:
+  - "Ex-Software Developer @HCL Technologies"
+  - "2+ Years Industry Experience (2022-2024)"
+  - "Full-Stack Development & System Design"
 
-fields_of_interests: [
-"Competitive Programming",
-"Full-Stack Development",
-"Problem Solving",
-"System Design",
-"Open Source"
+specialization: [
+  "Competitive Programming",
+  "Full-Stack Web Development", 
+  "Data Structures & Algorithms",
+  "System Design & Architecture",
+  "Problem Solving & Optimization"
 ]
 
-currently_learning: ["Advanced Algorithms", "System Architecture"]
-2025_goals: ["Master Advanced DSA", "Contribute to Open Source", "Build Innovative Projects"]
-hobbies: ["Coding", "Reading Tech Blogs", "Problem Solving"]
+currently_learning: [
+  "Advanced Algorithms & Data Structures",
+  "Distributed Systems Architecture",
+  "Cloud Computing & DevOps",
+  "Machine Learning Fundamentals"
+]
 
+2025_goals: [
+  "🎯 Master Advanced DSA Concepts",
+  "🚀 Contribute to Major Open Source Projects", 
+  "💡 Build Scalable Full-Stack Applications",
+  "📈 Achieve Higher Ratings in Competitive Programming",
+  "🌟 Share Knowledge Through Technical Content"
+]
+
+technical_interests: [
+  "Algorithm Optimization",
+  "Scalable Web Applications", 
+  "Database Design & Management",
+  "API Development & Integration",
+  "Performance Engineering"
+]
+
+life_philosophy: "Continuous learning, consistent growth, and code that makes a difference"
+```
+
+### 🎓 **Academic Journey**
+Currently pursuing **M.Tech in Computer Science** at **NIT Durgapur**, one of India's premier technical institutions, focusing on advanced algorithms, system design, and cutting-edge computer science research.
+
+### 💼 **Professional Experience**  
+Spent **2+ years** as a **Software Developer at HCL Technologies** (2022-2024), where I contributed to enterprise-level applications, worked with cross-functional teams, and gained hands-on experience in full-stack development and agile methodologies.
+
+### 🚀 **What Drives Me**
+I'm passionate about solving complex problems through elegant code, participating in competitive programming challenges, and building applications that create real-world impact. I believe in the power of clean, efficient code and continuous learning in the ever-evolving tech landscape.
 
 <br>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
