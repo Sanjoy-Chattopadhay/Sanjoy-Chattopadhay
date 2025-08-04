@@ -54,7 +54,7 @@ specialization: [
 
 
 life_philosophy: "Continuous learning, consistent growth, and code that makes a difference"
-```
+
 
 ### 🎓 **Academic Journey**
 Currently pursuing **M.Tech in Computer Science** at **NIT Durgapur**, one of India's premier technical institutions, focusing on advanced algorithms, system design, and cutting-edge computer science research.
@@ -64,7 +64,7 @@ Spent **2+ years** as a **Software Developer at HCL Technologies** (2022-2024), 
 
 ### 🚀 **What Drives Me**
 I'm passionate about solving complex problems through elegant code, participating in competitive programming challenges, and building applications that create real-world impact. I believe in the power of clean, efficient code and continuous learning in the ever-evolving tech landscape.
-
+```
 <br>
 ---
 
