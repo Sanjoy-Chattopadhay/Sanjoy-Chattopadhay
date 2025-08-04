@@ -7,10 +7,12 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img src="[https://drive.google.com/file/d/14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1/view?usp=sharing]" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
+  <img src="https://drive.google.com/uc?export=view&id=14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1" 
+       width="200" 
+       style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=500&color=FFB800&center=true&width=1000&lines=Ex-SDE+%40HCLTech+%7C+M.Tech+CS+%40NIT+Durgapur+%7C+GENAI+Developer;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
