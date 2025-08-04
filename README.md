@@ -30,7 +30,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
+</div>
 
 ```json
 {
@@ -61,6 +63,7 @@
 ```
 
 <br>
+
 
 ---
 
