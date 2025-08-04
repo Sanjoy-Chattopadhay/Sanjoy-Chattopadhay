@@ -144,12 +144,7 @@ I'm passionate about solving complex problems through elegant code, participatin
         <br><strong>GeeksforGeeks</strong><br>@chattopadhybh4g
       </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://www.codechef.com/users/i_am_sanjoy">
-        <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/>
-        <br><strong>CodeChef</strong><br>@i_am_sanjoy
-      </a>
-    </td>
+    
   </tr>
 </table>
 
