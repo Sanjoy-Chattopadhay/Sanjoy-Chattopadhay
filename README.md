@@ -50,17 +50,25 @@ specialization: [
   "System Design & Architecture",
   "Blockchain & LLM Research"
 ]
+life_philosophy: ["Continuous learning, consistent growth, and writing code that makes a difference"]
+
 ```
 
 
-life_philosophy: "Continuous learning, consistent growth, and code that makes a difference"
 
+### 🎓 **Academic Journey**  
+Currently pursuing an **M.Tech in Computer Science** at **NIT Durgapur**, one of India’s premier technical institutions.  
+My focus areas include advanced algorithms, system design, and cutting-edge computer science research.
 
-### 🎓 **Academic Journey**
-Currently pursuing **M.Tech in Computer Science** at **NIT Durgapur**, one of India's premier technical institutions, focusing on advanced algorithms, system design, and cutting-edge computer science research.
+---
 
 ### 💼 **Professional Experience**  
-Spent **2+ years** as a **Software Developer at HCL Technologies** (2022-2024), where I contributed to enterprise-level applications, worked with cross-functional teams, and gained hands-on experience in full-stack development and agile methodologies.
+Worked for **2+ years** as a **Software Developer at HCL Technologies** (2022–2024), where I:
+- Contributed to enterprise-level application development
+- Collaborated with cross-functional teams
+- Gained hands-on experience in **full-stack development**, **DevOps**, and **agile methodologies**
+
+---
 
 ### 🚀 **What Drives Me**
 I'm passionate about solving complex problems through elegant code, participating in competitive programming challenges, and building applications that create real-world impact. I believe in the power of clean, efficient code and continuous learning in the ever-evolving tech landscape.
