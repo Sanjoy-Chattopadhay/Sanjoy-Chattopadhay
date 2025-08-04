@@ -43,35 +43,13 @@ experience:
   - "Full-Stack Development & System Design"
 
 specialization: [
-  "Competitive Programming",
-  "Full-Stack Web Development", 
   "Data Structures & Algorithms",
+  "Full-Stack Web Development", 
+  "Smart Contract Developer(Solidity)",
   "System Design & Architecture",
-  "Problem Solving & Optimization"
+  "Blockchain & LLM Research"
 ]
 
-currently_learning: [
-  "Advanced Algorithms & Data Structures",
-  "Distributed Systems Architecture",
-  "Cloud Computing & DevOps",
-  "Machine Learning Fundamentals"
-]
-
-2025_goals: [
-  "🎯 Master Advanced DSA Concepts",
-  "🚀 Contribute to Major Open Source Projects", 
-  "💡 Build Scalable Full-Stack Applications",
-  "📈 Achieve Higher Ratings in Competitive Programming",
-  "🌟 Share Knowledge Through Technical Content"
-]
-
-technical_interests: [
-  "Algorithm Optimization",
-  "Scalable Web Applications", 
-  "Database Design & Management",
-  "API Development & Integration",
-  "Performance Engineering"
-]
 
 life_philosophy: "Continuous learning, consistent growth, and code that makes a difference"
 ```
