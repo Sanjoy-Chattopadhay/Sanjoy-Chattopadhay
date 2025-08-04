@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=500&color=FFB800&center=true&width=1000&lines=Ex-SDE+%40HCLTech+%7C+M.Tech+CS+%40NIT+Durgapur+%7C+Competitive+Programmer;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast+%7C+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=500&color=FFB800&center=true&width=1000&lines=Ex-SDE+%40HCLTech+%7C+M.Tech+CS+%40NIT+Durgapur+%7C+GENAI+Developer;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
 </div>
 
 <br>
