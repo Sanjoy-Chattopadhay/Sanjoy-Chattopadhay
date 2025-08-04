@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/64368749?v=4" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF;"/>
+  <img src="https://avatars.githubusercontent.com/u/64368749?v=4" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
 </div>
 
 <div align="center">
@@ -19,9 +19,9 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjoy-Chattopadhyay&style=for-the-badge&color=00d9ff&label=COSMIC+VISITORS"/>
-  <img src="https://img.shields.io/github/followers/Sanjoy-Chattopadhyay?style=for-the-badge&color=ffb800&labelColor=1a1a1a&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhyay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sanjoy-Chattopadhay&style=for-the-badge&color=00d9ff&label=COSMIC+VISITORS"/>
+  <img src="https://img.shields.io/github/followers/Sanjoy-Chattopadhay?style=for-the-badge&color=ffb800&labelColor=1a1a1a&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS"/>
 </div>
 
 ---
@@ -30,49 +30,28 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
-<table>
-<tr>
-<td width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
 
-```json
-{
-  "name": "Sanjoy Chattopadhyay",
-  "located_in": "West Bengal, India",
-  "education": ["M.Tech CS", "NIT Durgapur"],
-  "job": ["Ex-SDE @HCLTech", "Full-Stack Developer"],
-  "company": "HCL Technologies (2022–2024)",
-  "fields_of_interests": [
-    "Competitive Programming",
-    "Full-Stack Development",
-    "Problem Solving",
-    "System Design",
-    "Open Source"
-  ],
-  "currently_learning": [
-    "Advanced Algorithms", 
-    "System Architecture"
-  ],
-  "2025_goals": [
-    "Master Advanced DSA",
-    "Contribute to Open Source",
-    "Build Innovative Projects"
-  ],
-  "hobbies": [
-    "Coding",
-    "Reading Tech Blogs",
-    "Problem Solving"
-  ]
-}
-```
+name: Sanjoy Chattopadhyay
+located_in: West Bengal, India
+education: ["M.Tech CS", "NIT Durgapur"]
+job: ["Ex-SDE @HCLTech", "Full-Stack Developer"]
+company: HCL Technologies (2022-2024)
 
-</td>
-<td width="50%">
+fields_of_interests: [
+"Competitive Programming",
+"Full-Stack Development",
+"Problem Solving",
+"System Design",
+"Open Source"
+]
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%"/>
+currently_learning: ["Advanced Algorithms", "System Architecture"]
+2025_goals: ["Master Advanced DSA", "Contribute to Open Source", "Build Innovative Projects"]
+hobbies: ["Coding", "Reading Tech Blogs", "Problem Solving"]
 
-</td>
-</tr>
-</table>
+
+<br>
 
 ---
 
@@ -103,16 +82,16 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhyay&layout=compact&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&layout=compact&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjoy-Chattopadhyay&theme=radical&hide_border=true&background=0,000000,130F40&stroke=00D9FF&ring=FFB800&fire=FF6B35&currStreakLabel=FFFFFF"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjoy-Chattopadhay&theme=radical&hide_border=true&background=0,000000,130F40&stroke=00D9FF&ring=FFB800&fire=FF6B35&currStreakLabel=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjoy-Chattopadhyay&custom_title=Contribution%20Graph&bg_color=0,000000,130F40&color=FFFFFF&line=00D9FF&point=FFB800&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjoy-Chattopadhay&custom_title=Contribution%20Graph&bg_color=0,000000,130F40&color=FFFFFF&line=00D9FF&point=FFB800&area_color=00D9FF&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -123,12 +102,30 @@
 
 <div align="center">
 
-| Platform | Profile | Status |
-|:---:|:---:|:---:|
-| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30"/> **LeetCode** | [@I_am_Sanjoy](https://leetcode.com/u/I_am_Sanjoy/) | 🔥 Active |
-| <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/> **HackerRank** | [@sanjoy_chatterj1](https://www.hackerrank.com/profile/sanjoy_chatterj1) | ⭐ Certified |
-| <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="30"/> **GeeksforGeeks** | [@chattopadhybh4g](https://www.geeksforgeeks.org/user/chattopadhybh4g/) | 📈 Growing |
-| <img src="https://img.icons8.com/color/48/000000/codechef.png" width="30"/> **CodeChef** | [@i_am_sanjoy](https://www.codechef.com/users/i_am_sanjoy) | 🚀 Competing |
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+      <br><strong>LeetCode</strong>
+      <br><a href="https://leetcode.com/u/I_am_Sanjoy/">@I_am_Sanjoy</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/000000/hackerrank.png"/>
+      <br><strong>HackerRank</strong>
+      <br><a href="https://www.hackerrank.com/profile/sanjoy_chatterj1">@sanjoy_chatterj1</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+      <br><strong>GeeksforGeeks</strong>
+      <br><a href="https://www.geeksforgeeks.org/user/chattopadhybh4g/">@chattopadhybh4g</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/000000/codechef.png"/>
+      <br><strong>CodeChef</strong>
+      <br><a href="https://www.codechef.com/users/i_am_sanjoy">@i_am_sanjoy</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -139,12 +136,12 @@
 ## <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="35"> Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhyay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
-### 🎯 Professional Milestones
-
 <div align="center">
+
+### 🎯 Professional Milestones
 
 | 🏆 Achievement | 📅 Timeline | 💫 Impact |
 |:---|:---:|---:|
@@ -164,29 +161,29 @@
 
 <div align="center">
 
-### 📫 Professional Networks
 <a href="https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
-<a href="https://github.com/Sanjoy-Chattopadhyay">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sanjoy-chattopadhay">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
 </a>
 <a href="mailto:chatterjeesanjoy347@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
 <a href="https://sanjoy-chattopadhay.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722"/>
 </a>
 
-### 🌐 More Connections
+<br><br>
+
 <a href="https://topmate.io/sanjoy_chattopadhyay/">
-  <img src="https://img.shields.io/badge/TopMate-1A237E?style=for-the-badge&logo=calendly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TopMate-1A237E?style=for-the-badge&logo=calendly&logoColor=white&labelColor=1A237E"/>
 </a>
 <a href="https://linktr.ee/Sanjoy_Chattopadhyay">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B"/>
 </a>
 <a href="https://wa.me/7699111052">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
 </a>
 
 </div>
@@ -199,6 +196,10 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
