@@ -127,27 +127,32 @@ I'm passionate about solving complex problems through elegant code, participatin
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-      <br><strong>LeetCode</strong>
-      <br><a href="https://leetcode.com/u/I_am_Sanjoy/">@I_am_Sanjoy</a>
+      <a href="https://leetcode.com/u/I_am_Sanjoy/">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+        <br><strong>LeetCode</strong><br>@I_am_Sanjoy
+      </a>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/hackerrank.png"/>
-      <br><strong>HackerRank</strong>
-      <br><a href="https://www.hackerrank.com/profile/sanjoy_chatterj1">@sanjoy_chatterj1</a>
+      <a href="https://www.hackerrank.com/profile/sanjoy_chatterj1">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="48" height="48"/>
+        <br><strong>HackerRank</strong><br>@sanjoy_chatterj1
+      </a>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
-      <br><strong>GeeksforGeeks</strong>
-      <br><a href="https://www.geeksforgeeks.org/user/chattopadhybh4g/">@chattopadhybh4g</a>
+      <a href="https://www.geeksforgeeks.org/user/chattopadhybh4g/">
+        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks"/>
+        <br><strong>GeeksforGeeks</strong><br>@chattopadhybh4g
+      </a>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/codechef.png"/>
-      <br><strong>CodeChef</strong>
-      <br><a href="https://www.codechef.com/users/i_am_sanjoy">@i_am_sanjoy</a>
+      <a href="https://www.codechef.com/users/i_am_sanjoy">
+        <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/>
+        <br><strong>CodeChef</strong><br>@i_am_sanjoy
+      </a>
     </td>
   </tr>
 </table>
+
 
 </div>
 
