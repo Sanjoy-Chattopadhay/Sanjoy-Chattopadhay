@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/64368749?v=4](https://drive.google.com/file/d/14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1/view?usp=sharing)" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
+  <img src="[https://drive.google.com/file/d/14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1/view?usp=sharing]" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
 </div>
 
 <div align="center">
