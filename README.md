@@ -7,12 +7,15 @@
 </div>
 
 <br>
+
+<!-- Profile Image - Replace with your own image URL or use a placeholder -->
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1" 
-       width="320" height = "500" 
-       style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF; animation: float 3s ease-in-out infinite;"/>
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" 
+       width="320" height="320" 
+       style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF;"/>
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=500&color=FFB800&center=true&width=1000&lines=Ex-SDE+%40HCLTech+%7C+M.Tech+CS+%40NIT+Durgapur+%7C+GENAI+Developer;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
@@ -23,9 +26,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjoy-Chattopadhay&style=for-the-badge&color=00d9ff&label=COSMIC+VISITORS"/>
   <img src="https://img.shields.io/github/followers/Sanjoy-Chattopadhay?style=for-the-badge&color=ffb800&labelColor=1a1a1a&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS"/>
+  <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS&affiliations=OWNER"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
 
@@ -51,18 +55,18 @@ specialization: [
   "Blockchain & LLM Research"
 ]
 life_philosophy: [
-"Continuous learning",
-"consistent growth",
-"writing code that makes a difference"]
-
+  "Continuous learning",
+  "consistent growth",
+  "writing code that makes a difference"
+]
 ```
 
-
+<br clear="right"/>
 
 ## 👨‍💻 About Me
 
 🎓 **Education**  
-I’m currently pursuing an **M.Tech in Computer Science** at **NIT Durgapur**, one of India's top-tier technical institutes. My academic interests revolve around **advanced algorithms**, **system design**, and **research in cutting-edge areas** of computer science.
+I'm currently pursuing an **M.Tech in Computer Science** at **NIT Durgapur**, one of India's top-tier technical institutes. My academic interests revolve around **advanced algorithms**, **system design**, and **research in cutting-edge areas** of computer science.
 
 💼 **Industry Experience**  
 I bring over **2 years of experience as a Software Developer at HCL Technologies (2022–2024)**, where I:
@@ -70,10 +74,10 @@ I bring over **2 years of experience as a Software Developer at HCL Technologies
 - Worked closely with cross-functional teams in agile environments
 - Gained hands-on expertise in **full-stack development**, **DevOps**, and **CI/CD pipelines**
 
-🚀 **What I’m Passionate About**  
+🚀 **What I'm Passionate About**  
 I love **solving algorithmic challenges**, especially in the field of **Dynamic Programming**, and regularly take part in **competitive programming contests**. I'm driven by writing **clean, efficient, and impactful code**, and I enjoy building tech solutions that solve real-world problems.
 
-💡 I’m a lifelong learner who thrives in the fast-paced world of technology and innovation.
+💡 I'm a lifelong learner who thrives in the fast-paced world of technology and innovation.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -95,8 +99,6 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Statistics
@@ -106,15 +108,17 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&layout=compact&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjoy-Chattopadhay&theme=radical&hide_border=true&background=0,000000,130F40&stroke=00D9FF&ring=FFB800&fire=FF6B35&currStreakLabel=FFFFFF"/>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjoy-Chattopadhay&custom_title=Contribution%20Graph&bg_color=0,000000,130F40&color=FFFFFF&line=00D9FF&point=FFB800&area_color=00D9FF&area=true&hide_border=true"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjoy-Chattopadhay&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFB800&fire=FF6B35&currStreakLabel=FFFFFF"/>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjoy-Chattopadhay&custom_title=Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFB800&area_color=00D9FF&area=true&hide_border=true"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -122,41 +126,23 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://leetcode.com/u/I_am_Sanjoy/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
-        <br><strong>LeetCode</strong><br>@I_am_Sanjoy
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.hackerrank.com/profile/sanjoy_chatterj1">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="48" height="48"/>
-        <br><strong>HackerRank</strong><br>@sanjoy_chatterj1
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.geeksforgeeks.org/user/chattopadhybh4g/">
-        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks"/>
-        <br><strong>GeeksforGeeks</strong><br>@chattopadhybh4g
-      </a>
-    </td>
-    
-  </tr>
-</table>
-
+| Platform | Profile | Status |
+|:---:|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80"/> | [@I_am_Sanjoy](https://leetcode.com/u/I_am_Sanjoy/) | Active |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="100"/> | [@sanjoy_chatterj1](https://www.hackerrank.com/profile/sanjoy_chatterj1) | Active |
+| <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="80"/> | [@chattopadhybh4g](https://www.geeksforgeeks.org/user/chattopadhybh4g/) | Active |
 
 </div>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Achievements & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -171,8 +157,6 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 | **Open Source Contributor** | Active | Contributing to Developer Ecosystem |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -207,7 +191,7 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!" />
@@ -217,8 +201,21 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjoy-Chattopadhay/Sanjoy-Chattopadhay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjoy-Chattopadhay/Sanjoy-Chattopadhay/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjoy-Chattopadhay/Sanjoy-Chattopadhay/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
+
+<div align="center">
+  
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+Made with ❤️ by Sanjoy Chattopadhyay
+
+</div>
