@@ -72,7 +72,7 @@ life_philosophy:
 </td>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF)
 
 </td>
 </tr>
