@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Sanjoy-Chattopadhay" 
+  <img src="https://drive.usercontent.google.com/download?id=14_1Bma3m1Kh_IsrzJ6JOmmQby4efGoF1&export=view&authuser=0" 
        width="200" 
        style="border-radius: 50%; border: 5px solid #00D9FF;"/>
 </div>
