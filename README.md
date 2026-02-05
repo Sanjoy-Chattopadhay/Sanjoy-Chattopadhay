@@ -103,6 +103,6 @@ I'm open to collaborations on GenAI projects, LLM research, and challenging AI/M
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhyay&show_icons=true&theme=radical)
 
 </div>
