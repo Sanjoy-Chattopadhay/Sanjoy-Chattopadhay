@@ -3,42 +3,54 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%8B+Hello%2C+I'm+Sanjoy+Chattopadhyay;%F0%9F%9A%80+Crafting+Digital+Experiences" alt="Typing SVG" />
+  
+# 👋 Hello, I'm Sanjoy Chattopadhyay
+### 🚀 Crafting Digital Experiences
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Sanjoy-Chattopadhay" 
+  <img src="https://avatars.githubusercontent.com/Sanjoy-Chattopadhay" 
        width="200" 
-       style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 50px #00D9FF;"/>
+       style="border-radius: 50%; border: 5px solid #00D9FF;"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=500&color=FFB800&center=true&width=1000&lines=Ex-SDE+%40HCLTech+%7C+M.Tech+CS+%40NIT+Durgapur+%7C+GENAI+Developer;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+  
+**Ex-SDE @HCLTech | M.Tech CS @NIT Durgapur | GENAI Developer**  
+**Full-Stack Developer | Problem Solver | Tech Enthusiast**
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjoy-Chattopadhay&style=for-the-badge&color=00d9ff&label=COSMIC+VISITORS"/>
-  <img src="https://img.shields.io/github/followers/Sanjoy-Chattopadhay?style=for-the-badge&color=ffb800&labelColor=1a1a1a&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS"/>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjoy-Chattopadhay&style=for-the-badge&color=00d9ff&label=COSMIC+VISITORS)
+![Followers](https://img.shields.io/github/followers/Sanjoy-Chattopadhay?style=for-the-badge&color=ffb800&labelColor=1a1a1a&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Sanjoy-Chattopadhay?style=for-the-badge&color=00ff88&labelColor=1a1a1a&label=TOTAL+STARS)
+
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About The Developer
+## 🎯 About The Developer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true" width="48%"/>
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
 name: "Sanjoy Chattopadhyay"
 located_in: "West Bengal, India"
 current_status: "M.Tech CS Student @NIT Durgapur"
+
 education: 
   - "M.Tech Computer Science (2024-Present)"
   - "NIT Durgapur"
+
 experience:
   - "Ex-Software Developer @HCL Technologies"
   - "2+ Years Industry Experience (2022-2024)"
@@ -57,7 +69,16 @@ life_philosophy:
   - "Writing code that makes a difference"
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -75,33 +96,52 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 
 💡 I'm a lifelong learner who thrives in the fast-paced world of technology and innovation.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technology Universe
+## 💻 Technology Universe
 
 <div align="center">
 
 ### 🚀 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript,python,c&theme=dark" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🌐 Frontend Technologies  
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,redis&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,heroku,vscode,idea&theme=dark" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&layout=compact&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjoy-Chattopadhay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFB800&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-Chattopadhay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 </div>
 
 <br>
@@ -113,49 +153,41 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjoy-Chattopadhay&custom_title=Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFB800&area_color=00D9FF&area=true&hide_border=true"/>
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjoy-Chattopadhay&theme=radical"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Competitive Programming Arena
+## 🏆 Competitive Programming Arena
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="250">
-      <a href="https://leetcode.com/u/I_am_Sanjoy/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-        <br><br>
-        <img src="https://leetcard.jacoblin.cool/I_am_Sanjoy?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-      </a>
-    </td>
-    <td align="center" width="250">
-      <a href="https://www.hackerrank.com/profile/sanjoy_chatterj1">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-        <br><br>
-        <strong>Profile:</strong> sanjoy_chatterj1
-      </a>
-    </td>
-    <td align="center" width="250">
-      <a href="https://www.geeksforgeeks.org/user/chattopadhybh4g/">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-        <br><br>
-        <strong>Profile:</strong> chattopadhybh4g
-      </a>
-    </td>
-  </tr>
-</table>
+| Platform | Profile | Stats |
+|:---:|:---:|:---:|
+| **LeetCode** | [@I_am_Sanjoy](https://leetcode.com/u/I_am_Sanjoy/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FI_am_Sanjoy&logo=leetcode&logoColor=yellow) |
+| **HackerRank** | [@sanjoy_chatterj1](https://www.hackerrank.com/profile/sanjoy_chatterj1) | ![HackerRank](https://img.shields.io/badge/HackerRank-Active-2EC866?style=for-the-badge&logo=hackerrank) |
+| **GeeksforGeeks** | [@chattopadhybh4g](https://www.geeksforgeeks.org/user/chattopadhybh4g/) | ![GeeksforGeeks](https://img.shields.io/badge/GFG-Active-0F9D58?style=for-the-badge&logo=geeksforgeeks) |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Achievements & Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+  
+### 📈 Coding Stats
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/I_am_Sanjoy?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/I_am_Sanjoy/)
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sanjoy-Chattopadhay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
 </div>
 
 <br>
@@ -174,53 +206,44 @@ I love **solving algorithmic challenges**, especially in the field of **Dynamic 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Sanjoy-Chattopadhay">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:chatterjeesanjoy347@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://sanjoy-chattopadhay.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://topmate.io/sanjoy_chattopadhyay/">
-  <img src="https://img.shields.io/badge/TopMate-1A237E?style=for-the-badge&logo=calendly&logoColor=white"/>
-</a>
-<a href="https://linktr.ee/Sanjoy_Chattopadhyay">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
-<a href="https://wa.me/917699111052">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!" />
-</div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-chattopadhyay-390b3a1a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjoy-Chattopadhay)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatterjeesanjoy347@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sanjoy-chattopadhay.github.io/portfolio/)
+
+[![TopMate](https://img.shields.io/badge/TopMate-1A237E?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/sanjoy_chattopadhyay/)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Sanjoy_Chattopadhyay)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917699111052)
+
 </div>
 
 ---
 
 <div align="center">
   
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! Let's build something amazing together!**  
+**Always learning, always growing! 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+---
+
 **Made with ❤️ by Sanjoy Chattopadhyay**
 
 </div>
